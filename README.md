@@ -45,4 +45,4 @@ ADMISSION and ENROLLMENT are junction tables with composite primary keys and for
 
 ## Author
 
-Your Name
+Raj Singh Parihar
